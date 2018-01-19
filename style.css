@@ -1,0 +1,263 @@
+body
+{
+background:url(img/grid_noise.png);
+}
+
+#container
+{
+	
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:20px;
+	box-shadow:0px 5px 5px #61CF5A;
+}
+#header
+{
+
+background:#000;
+height:70px;
+border-radius:5px;
+font-size:35px;
+font-family:Georgia, "Times New Roman", Times, serif;
+color:#F3C;
+text-align:center;
+line-height:20px;
+font-weight:bolder;
+text-shadow:1px 2px 20px #FC0 ;	
+}
+
+#menu
+{
+	
+height:50px;
+background:#303;	
+border-radius:0px;	
+}
+
+#menu ul
+{
+	margin:0px;
+	padding:0px;
+}
+
+#menu li
+{
+padding:6.5px;
+list-style-type:none;
+display:inline-block;
+border-radius:5px;
+font-family:Georgia, "Times New Roman", Times, serif;
+float:left;
+height:40px;
+font-size:18px;
+color:#F00;
+text-align:center;			
+line-height:50px;
+}
+
+#menu li a
+{
+text-decoration:none;
+color:#FFF;	
+}
+
+#menu a:hover
+{
+background:url(img/bk5.jpg);
+color:#EC3F13;
+padding:5px 5px;
+border-radius:4px;
+}
+
+#mainbody
+{
+height:550px;
+background:#333;
+border-radius:0px;
+}
+
+#footer
+{
+height:40px;
+background:#333;
+line-height:40px;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size:20px;
+color:#41DAEB;
+text-align:center;
+}
+
+.imge
+{
+	border-radius:5px;
+}
+
+
+.label
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:18px;
+	color:#FFF;
+}
+
+.field
+{
+ font-family:Georgia, "Times New Roman", Times, serif;
+ font-size:16px;
+ color:#FFF;
+ background-color:transparent;
+ border:2px solid #603;
+}
+
+.head
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-style:normal;
+	font-size:20px;
+	text-decoration:0px 5px 8px #903;
+	color:#FFF;
+}
+
+.button
+{
+	border-radius:7px;
+	background-color:transparent;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:16px;
+	color:#FFF;
+}
+
+.output
+{
+	font-size:16px;
+	color:#FFF;
+	font-family:Georgia, "Times New Roman", Times, serif;
+}
+
+
+.bt a
+{
+	
+	text-align:center;
+	font:Georgia, "Times New Roman", Times, serif;
+	display:block;
+    background:#666;	
+	border-radius:10px;
+	line-height:20px;
+	text-decoration:none;
+	color:#00FFFF;
+	padding:10px 10px;
+     width:200px;
+	 font-size:24px;	
+}
+
+.bt a:hover
+{
+	
+	color:#60C;
+}
+
+.bt1 a
+{
+	
+	text-align:center;
+	font:Georgia, "Times New Roman", Times, serif;
+	display:block;
+    background:url(image/redheadreading.jpg);	
+	border-radius:10px;
+	line-height:20px;
+	text-decoration:none;
+	color:#00FFFF;
+	padding:10px 10px;
+     width:200px;
+	 font-size:24px;	
+}
+
+.bt1 a:hover
+{
+	
+	color:#60C;
+}
+
+.bt2 a
+{
+	
+	text-align:center;
+	font:Georgia, "Times New Roman", Times, serif;
+	display:block;
+    background:url(image/Math.jpg);	
+	border-radius:10px;
+	line-height:20px;
+	text-decoration:none;
+	color:#00FFFF;
+	padding:10px 10px;
+     width:200px;
+	 font-size:24px;	
+}
+
+.bt2 a:hover
+{
+	
+	color:#60C;
+}
+
+.bt3 a
+{
+	
+	text-align:center;
+	font:Georgia, "Times New Roman", Times, serif;
+	display:block;
+    background:url(image/maxresdefault.jpg);	
+	border-radius:10px;
+	line-height:20px;
+	text-decoration:none;
+	color:#00FFFF;
+	padding:10px 10px;
+     width:200px;
+	 font-size:24px;	
+}
+
+.bt3 a:hover
+{
+	
+	color:#60C;
+}
+
+.bt4 a
+{
+	
+	text-align:center;
+	font:Georgia, "Times New Roman", Times, serif;
+	display:block;
+	height:100px;
+    background:url(image/387b64a1ad597c5c2c99f9c08c46dc03--primary-colour-art-color-mixing-art-lesson.jpg);	
+	border-radius:10px;
+	line-height:20px;
+	text-decoration:none;
+	color:#00FFFF;
+	padding:10px 10px;
+    width:200px;
+	font-size:24px;	
+}
+
+.bt4 a:hover
+{
+	
+	color:#60C;
+}
+
+
+.table
+{
+
+    padding:10px 20px;	
+	border-radius:10px;
+	box-shadow:1px 1px 10px #CC66FF;
+	   
+}
+
+
+a:link{text-decoration:none; color:#0C3;}
+a:active{text-decoration:none; color:#0C3;}
+a:visited{text-decoration:none; color:#0C3;}
+a:hover{text-decoration:none; color:#3399FF;}
